@@ -1,2 +1,2 @@
 # Week-6-project
-Game of War
+Created a card game "War". 
